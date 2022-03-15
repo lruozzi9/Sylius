@@ -11,3 +11,4 @@ import './sass/main.scss';
 
 import './img/admin-logo.svg';
 import 'sylius/ui-resources/img/logo.png';
+import 'sylius/ui-resources/img/50x50.png';
